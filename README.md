@@ -20,6 +20,9 @@ Pretty simple firmware, used QMK (had prior experience). Haven't coded the funct
 
 <img width="884" height="435" alt="image" src="https://github.com/user-attachments/assets/9f6efd55-db96-4beb-b6f9-17748f17156f" />
 
+# Changes
+Pi board was changed from SMD to THT, for easier addition
+
 # EXTRA
 Originally Big Keyboard was intentended to be a 104-key keyboard, but was pivoted to 87-key after wiring a 104-key didn't work out (matrix wasn't set up properly).
 CAD was done in Onshape, PCBs done in KiCAD
