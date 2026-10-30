@@ -12,8 +12,8 @@ The CAD design consists of 3 layers, using dovetail joints to hold the outer, in
 # PCB
 Big Keyboard's PCB has got a couple of parts to it - a Raspberry Pi Pico (no wireless) and, diodes, and keys (pretty simple). The Diodes and Pi Pico are SMD, while the Cherry MX keys are THT.
 
-<img width="667" height="160" alt="Screenshot 2026-08-26 194612" src="https://github.com/user-attachments/assets/c4ef8cb0-c684-44fe-9fc9-4b8c726a6c9e" />
-<img width="584" height="218" alt="Screenshot 2026-08-26 194628" src="https://github.com/user-attachments/assets/72b945d1-6c66-457f-a595-3efc67fefc1c" />
+<img width="667" height="160" alt="Screenshot 2026-08-26 194612" src="https://github.com/user-attachments/assets/c4ef8cb0-c684-44fe-9fc9-4b8c726a6c9e" /> <br>
+<img width="584" height="218" alt="Screenshot 2026-08-26 194628" src="https://github.com/user-attachments/assets/72b945d1-6c66-457f-a595-3efc67fefc1c" /> <br>
 <img width="354" height="301" alt="Screenshot 2026-08-26 194633" src="https://github.com/user-attachments/assets/963b8abc-0635-4d09-9289-8a19d1c0ac88" />
 
 # FIRMWARE/SOFTWARE
