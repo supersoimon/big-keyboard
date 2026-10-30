@@ -537,7 +537,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "..\\unknown\\Keyboard BOM.csv",
+    "bom_export_filename": "..\\..\\..\\Downloads\\New Gerbers\\Simon-Big-Keyboard-V2.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -699,7 +699,7 @@
         "uuid": "1f15bbb2-91c3-480d-819a-c7e448aae989"
       }
     ],
-    "used_designators": "U1-2,SW1-87,D1-87,A1",
+    "used_designators": "U1-2,SW1-87,#PWR1,D1-87,A1-2",
     "variants": []
   },
   "sheets": [
