@@ -5,8 +5,9 @@ Big Keyboard is a custom tenkeyless keyboard (87 keys) designed to fit inside a 
 The CAD design consists of 3 layers, using dovetail joints to hold the outer, inner, and middle layers together, while also allowing them to be easily taken apart. 
 
 <img width="540" height="320" alt="Screenshot 2026-08-25 212428" src="https://github.com/user-attachments/assets/eeaea3d5-e343-4082-ac58-71e953f67e34" />
-<img width="515" height="221" alt="Screenshot 2026-08-25 212419" src="https://github.com/user-attachments/assets/0c6a632b-8fad-4c66-a13a-b6e12488763b" />
-<img width="441" height="221" alt="Screenshot 2026-08-24 192838" src="https://github.com/user-attachments/assets/ec8e123a-6426-44c2-8eb2-a579a268f25a" />
+<img width="288" height="156" alt="Screenshot 2026-10-29 202124" src="https://github.com/user-attachments/assets/faa9d536-2409-44a4-a6d9-16f7b8dff47f" />
+<img width="511" height="198" alt="Screenshot 2026-10-29 202100" src="https://github.com/user-attachments/assets/cf6a2a2b-0060-4de6-a13f-03728aeda144" />
+
 
 # PCB
 Big Keyboard's PCB has got a couple of parts to it - a Raspberry Pi Pico (no wireless) and, diodes, and keys (pretty simple). The Diodes and Pi Pico are SMD, while the Cherry MX keys are THT.
